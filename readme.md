@@ -34,15 +34,15 @@ https://ytutor.wordpress.com/contact/
 
 
 ## demo gifs
-move tasks:
+###### move tasks:
 ![alt text](gifs/1.gif)
-add task:
+###### add task:
 ![alt text](gifs/2.gif)
-edit/ remove task
+###### edit/ remove task (double click a task)
 ![alt text](gifs/3.gif)
-change kanban board/project:
+###### change kanban board/project:
 ![alt text](gifs/4.gif)
-add category/board
+###### add category/board
 ![alt text](gifs/5.gif)
 
 
