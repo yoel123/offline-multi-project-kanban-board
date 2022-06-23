@@ -1,0 +1,20 @@
+
+
+
+*1 page canban board
+*categories (todo,IN PROGRESS,done,problem etc) this will be in an admin page
+*task:
+-title,content,category_id,date,color,canban_id,sort_position
+	*when editing only cats from current board show up
+-can be aded from main page
+-can be edited from main page
+-can be removed from main page
+-in add and edit thers a color picker
+-sorted  by sort_position,can be edited to change task pos(the order it apears)
+-optional: drag between boards(change cat by dragging
+*settings table
+-edit board title and custom css
+*optional: export as html
+*optional: multy canban boards, make a table with kanban name(and id), show it in a selectable list(so you can swith between project boards)
+
+
