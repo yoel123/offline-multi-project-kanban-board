@@ -9,18 +9,29 @@ the design is very minemal as thats not the focuse of this project.
 
 it uses: 
 -phpdesktop as server and browser
+
 -the main programming languge is php
+
 -for the front it uses matrilizecss
+
 -for database it uses sqlite and jason for the static version (the exported blog)
+
 -and it uses my own php framework for rapid dev
+
 -jqury ui drag and drop
+
 -simple js color picker
 
+
 ## features:
-*regular kanban boadrd features (drag and drop between boards)
+*regular kanban board features (drag and drop between boards)
+
 *add edit and remove boards (calld cats)
+
 *add and change project
+
 *double click task to edit/remove it
+
 
 ## how to use?
 
